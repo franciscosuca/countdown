@@ -1,0 +1,5 @@
+{
+  "name": "Time Delta Calculator",
+  "description": "A progressive web application that calculates and displays the time difference (delta time) between the current time and a user-selected future time from a calendar picker.",
+  "requestFramePermissions": []
+}
